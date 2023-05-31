@@ -1,7 +1,7 @@
-# Code & Practise | An Online IDE
+# Code Deck | An Online IDE
 
 ## Project Objective
- 
+
 1. Create a playground area where one can create multiple code snippets and run it using an online compiler and execution system(Judge0)
 2. Create a Code Editor Frontend using ReactJS (CodeMirror package)
 3. Implemented flexible layout structure using styled components
@@ -25,7 +25,9 @@
 
 # Link & References 
 
+- [Live Project Link](https://code-deck.vercel.app/)
 - [Judge0 CE API Testing](https://rapidapi.com/judge0-official/api/judge0-ce)
 - [Judge0 CE API Documentation](https://ce.judge0.com/)
 - [Styled Component Documentation](https://styled-components.com/docs/basics) -> for styling
 - [CodeMirror](https://uiwjs.github.io/react-codemirror/) -> for Coding Editor
+- [Vercel](https://vercel.com/) -> for hoisting
